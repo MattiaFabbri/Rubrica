@@ -1,4 +1,8 @@
-﻿namespace Rubricawpf
+﻿using System.Collections.Generic;
+using System.IO;
+using System;
+
+namespace Rubricawpf
 {
     public class Persona
     {
@@ -14,5 +18,22 @@
         public int GetId()
         { return idPersona; }
     }
-   
+
+    public class Persone : List<Persona>
+    {
+        public Persone(string filePath)
+        {
+            string[] dati;
+            StreamReader ReaderPersone = new StreamReader(filePath);
+            string stringPersona = ReaderPersone.ReadLine();
+
+            do
+            {
+                dati = stringPersona.Split(";");
+                this.Add(new Persona(Convert.ToInt32(dati[0]), dati[1], dati[2]));
+                stringPersona = ReaderPersone.ReadLine();
+            } while (!ReaderPersone.EndOfStream);
+        }
+    }
+
 }

@@ -40,3 +40,25 @@ C:\Users\fabbr\Desktop\rubrica\obj\Debug\net6.0-windows\refint\Rubrica.dll
 C:\Users\fabbr\Desktop\rubrica\obj\Debug\net6.0-windows\Rubrica.pdb
 C:\Users\fabbr\Desktop\rubrica\obj\Debug\net6.0-windows\Rubrica.genruntimeconfig.cache
 C:\Users\fabbr\Desktop\rubrica\obj\Debug\net6.0-windows\ref\Rubrica.dll
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\bin\Debug\net6.0-windows\Rubrica.exe
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\bin\Debug\net6.0-windows\Contatti.csv
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\bin\Debug\net6.0-windows\Persone.csv
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\bin\Debug\net6.0-windows\Rubrica.deps.json
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\bin\Debug\net6.0-windows\Rubrica.runtimeconfig.json
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\bin\Debug\net6.0-windows\Rubrica.dll
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\bin\Debug\net6.0-windows\Rubrica.pdb
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica_MarkupCompile.cache
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.g.resources
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.AssemblyInfoInputs.cache
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.AssemblyInfo.cs
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.csproj.CoreCompileInputs.cache
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.sourcelink.json
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.dll
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\refint\Rubrica.dll
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.pdb
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\Rubrica.genruntimeconfig.cache
+C:\Users\fabbr\Desktop\compiti di informatica\wpf 2024\rubrica\rubrica\rubrica\obj\Debug\net6.0-windows\ref\Rubrica.dll

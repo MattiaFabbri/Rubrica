@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rubrica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ee2b4569d77d47a215b250e80e8e298a7d896e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b821d176ce929d6eb8686ac0da5576e37dc48c45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rubrica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rubrica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
